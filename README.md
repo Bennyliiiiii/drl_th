@@ -40,7 +40,7 @@ alias carla="(where your carla)/carla12/CarlaUE4.sh"
 alias carla_no_rendering="(where your carla)/carla12/CarlaUE4.sh -RenderOffScreen"
 ```
 
-## 2 Environment
+## 2 Environment and Baseline
 
 ### 2.1 launch carla
 ```bash
